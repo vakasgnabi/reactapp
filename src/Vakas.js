@@ -1,7 +1,7 @@
 import React from 'react';
 
 function isReactDeveloper_fun(isReactDeveloper){
-    if(isReactDeveloper==true){
+    if(isReactDeveloper===true){
         return "React Developer";
     }
     else{
