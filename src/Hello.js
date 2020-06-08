@@ -1,7 +1,7 @@
 import React from 'react';
 import './Hello.css';
 
-const hello=(name)=>"Hello world" + name;
+
 
 function Hello({firstName}) {
 
