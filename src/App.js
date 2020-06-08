@@ -3,7 +3,7 @@ import './App.css';
 import Hello from './Hello';
 import Vakas from './Vakas';
 
-const hello=(name)=>"Hello world" + name;
+
 
 function App({name,age}) {
 
